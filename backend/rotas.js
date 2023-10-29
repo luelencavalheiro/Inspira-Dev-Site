@@ -8,9 +8,7 @@ const { diaDoAno } = require('./utils')
 
 rotas.get("/", async (req, res) => {
 
-    const dia = 3 //diaDoAno()
-
-    const { rows } = await pool.query('select * from frases where dia = $1', [dia])
+    const { rows } = await pool.query('select * from frases order by random() limit 1')
 
     const { frase } = rows[0]
     return res.status(201).json(frase)

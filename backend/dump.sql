@@ -27,10 +27,29 @@ values (1, 'A programação é a arte de transformar sonhos em realidade, um có
 (17, 'A programação é uma jornada sem fim, sempre haverá algo novo para aprender.'),
 (18, 'Aprender a programar é desbloquear portas para um mundo de oportunidades.'),
 (19, 'A paixão pela programação é o que impulsiona a excelência.'),
-(20, 'Nunca subestime o poder de um pequeno código para resolver grandes problemas.')
-
-
-
-
-
-
+(20, 'Nunca subestime o poder de um pequeno código para resolver grandes problemas.'),
+(21, 'A programação é a chave para desvendar os segredos da tecnologia.'),
+(22, 'A mente de um programador é como um livro aberto cheio de possibilidades.'),
+(23, 'Aprender a programar é como adquirir superpoderes digitais.'),
+(24, 'Um programador nunca para de aprender, pois a tecnologia está em constante evolução.'),
+(25, 'O código é a linguagem universal da inovação.'),
+(26, 'Cada desafio de programação é uma oportunidade de crescimento.'),
+(27, 'A programação é a arte de criar ordem a partir do caos digital.'),
+(28, 'A criatividade é o tempero que dá sabor ao código.'),
+(29, 'A perseverança é a chave para superar os obstáculos na programação.'),
+(30, 'Um programador é um contador de histórias digital, dando vida às ideias.'),
+(31, 'A programação é a ferramenta que transforma sonhos em realidade digital.'),
+(32, 'A excelência na programação vem da prática constante.'),
+(33, 'Cada bug é uma oportunidade de aprender algo novo sobre o código.'),
+(34, 'Aprender a programar é como aprender a tocar um instrumento musical - requer prática e dedicação.'),
+(35, 'A programação é a linguagem da inovação, e você está aprendendo a falar fluentemente.'),
+(36, 'A jornada da programação é cheia de desafios, mas também recompensas incríveis.'),
+(37, 'A programação é a arte de traduzir conceitos em código.'),
+(38, 'Cada linha de código é um tijolo na construção do seu sonho digital.'),
+(39, 'A curiosidade é o combustível da programação, nunca pare de questionar.'),
+(40, 'A programação é a ponte entre a imaginação e a realidade digital.'),
+(41, 'Aprender a programar é como aprender magia digital.'),
+(42, 'A programação é a arte de criar soluções a partir do nada.'),
+(43, 'A excelência na programação vem da busca constante pela eficiência.'),
+(44, 'Não importa quantas vezes você caia, o importante é sempre se levantar e continuar programando.'),
+(45, 'A programação é a arte de simplificar o complexo.'),

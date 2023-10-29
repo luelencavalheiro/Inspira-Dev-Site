@@ -4,15 +4,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <neta name="keywords" content="Frases de Inspiração para Desenvolvedores, inspiração para devs" <title>Inspira Dev
-        </title>
-
-        <link rel="stylesheet" href="style.css">
+    <meta name="keywords" content="Frases de Inspiração para Desenvolvedores, inspiração para devs">
+    <title> Inspira Dev</title>
+    <script type="text/javascript"
+        src="https://platform-api.sharethis.com/js/sharethis.js#property=653e86b30dbf530019636975&product=sticky-share-buttons&source=platform"
+        async="async"></script>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
+    <img class="logo" src="./assets/logo.png" alt="Inspira Dev Logo" />
 
+    <main class="container-input">
+        <button id="button" class="button-cta" onclick="generatePhrase()"> Gerar uma frase </button>
+    </main>
 
+    <div id="container-phrase" class="container-phrase hide">
+        <span class="title"> A sua frase do dia é: </span>
+        <span id="phrase" class="phrase"> </span>
+        <div class="sharethis-sticky-share-buttons"></div>
+        <span class="tooltip"> Clique aqui e copie sua frase! ✔</span>
+
+    </div>
     <script src="script.js"></script>
 </body>
 
