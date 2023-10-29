@@ -8,4 +8,6 @@ O site possui frases prá-cadastradas no banco de dados. Ao clicar em gerar uma 
 Node.js, Express, postgresql, nodemon, cors, HTML e CSS.
 
 🚀 Como funciona:
+
+
 <img src="./inspira-dev.gif"  width="500" />
