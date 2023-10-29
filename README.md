@@ -1,5 +1,5 @@
 
-![](./.github/inpira-dev-site.png)
+![](inpira-dev-site.png)
 
 # Inspira Dev - O site motivacional para programadores
 
