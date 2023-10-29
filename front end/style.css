@@ -18,7 +18,7 @@ body {
 
 .logo {
     max-width: 600px;
-    margin-bottom: 24px;
+    margin-bottom: 4px;
 }
 
 .container-input {
@@ -32,15 +32,15 @@ body {
 }
 
 .button-cta {
-    height: 40px;
+    height: 60px;
     background-color: #EFEFEF;
     border: 0;
     border-radius: 4px;
     cursor: pointer;
-    margin-top: 40px;
+    margin-top: 20px;
     color: #231F20;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 25px;
 }
 
 .container-phrase {
@@ -70,6 +70,7 @@ body {
     color: #EFEFEF;
     border: 1px solid #231F20;
     transition: transform 0.5s;
+
 }
 
 .phrase:hover {
